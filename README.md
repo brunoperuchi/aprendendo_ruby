@@ -1,1 +1,3 @@
-Aqui colocarei meus testes com os conhecimentos adquiridos durante o curso com foco em Ruby on Rails que estou fazendo.
+# Ruby
+
+Nesse repositório estão os arquivos dos testes que faço para praticar o que aprendo em Ruby.

@@ -58,8 +58,11 @@ car.frear(2)
 car.retroceder(2)
 car.frear
 
-#teste accessor
+# Antes(teste accessor)
 puts car.modelo
 
+# Setter
 car.modelo = "Punto"
+
+# Getter
 puts car.modelo
